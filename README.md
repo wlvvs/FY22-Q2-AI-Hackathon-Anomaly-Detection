@@ -34,7 +34,3 @@ A document is considered Auto Published if it gets successfully published the sa
 🧑 A blank value in Package Published Date will indicate the document package is not yet published. It can be treated as Not Auto Published.
 
 
-
-<!-- badges: start -->
-[![Oscar Eduardo Chaparro Blancas](https://img.shields.io/badge/Oscar_E_Chaparro-Personal_website-blue?&logoColor=white?style=flat&logo=appveyor)](https://linktr.ee/wlvvs) 
-<!-- badges: end -->
